@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  MTScrollTwoViews
 //
-//  Created by morpheus on 2015/7/10.
-//  Copyright (c) 2015年 morpheus. All rights reserved.
+//  Created by kyushu on 2015/7/10.
+//  Copyright (c) 2015年 kyushu. All rights reserved.
 //
 
 import UIKit
@@ -47,7 +47,7 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
     // MARK: - Core Data stack
 
     lazy var applicationDocumentsDirectory: NSURL = {
-        // The directory the application uses to store the Core Data store file. This code uses a directory named "tw.com.morpheus.MTScrollTwoViews" in the application's documents Application Support directory.
+        // The directory the application uses to store the Core Data store file. This code uses a directory named "tw.com.kyushu.MTScrollTwoViews" in the application's documents Application Support directory.
         let urls = NSFileManager.defaultManager().URLsForDirectory(.DocumentDirectory, inDomains: .UserDomainMask)
         return urls[urls.count-1] as! NSURL
     }()

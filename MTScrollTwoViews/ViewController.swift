@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  MTScrollTwoViews
 //
-//  Created by morpheus on 2015/7/10.
-//  Copyright (c) 2015年 morpheus. All rights reserved.
+//  Created by kyushu on 2015/7/10.
+//  Copyright (c) 2015年 kyushu. All rights reserved.
 //
 
 import UIKit
